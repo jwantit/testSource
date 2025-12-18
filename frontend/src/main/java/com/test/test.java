@@ -5,7 +5,7 @@ public class test {
     String test = "test";
 
     public String setTest(){
-        String update = "test----";
+        String update = "front~~~~~";
 
         return update;
     }
